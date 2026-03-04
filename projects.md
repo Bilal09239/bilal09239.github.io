@@ -10,4 +10,4 @@ Infos über mich.
 
 ---
 
-[Home](/) | [About](/about/) | [Projects](/projects/)
+[Home](/) | [About](/about/) 

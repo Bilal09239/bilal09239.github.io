@@ -1,3 +1,4 @@
+[Home](/) | [About](/about/) 
 ---
 layout: default
 title: Home
@@ -9,4 +10,3 @@ Das ist meine Startseite.
 
 ---
 
-[Home](/) | [About](/about/) 

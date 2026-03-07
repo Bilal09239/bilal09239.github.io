@@ -1,5 +1,3 @@
 title: Linux and GitHub Learning Page
 description: Tutorials about Linux installation and GitHub basics
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
+theme: jekyll-theme-cayman

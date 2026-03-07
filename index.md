@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Linux Installation](linux-installation.md) | [GitHub Basics](github-basics.md)
+[Home](index.md) | [Linux Installation](linux-installation.md) | [GitHub Basics](github-basics.md)
 
 ---
 
@@ -54,8 +54,6 @@ You will learn about:
 
 # About Me
 
-# About Me
-
 My name is **Bilal Mahdi Anwar**, I am **21 years old**, and I study **Computer Science**.
 
 As part of a project, we were given the task to create and host a small website using **GitHub Pages**.  
@@ -67,14 +65,13 @@ On this website I present three pages related to the project:
 - a page showing the **basics of GitHub and Git**
 - this **main page**, which introduces the project and the content of the website
 
-
 The page itself is hosted using **GitHub Pages**, which allows static websites to be published directly from a GitHub repository.
 
 ---
 
 # Imprint (Impressum)
 
-Name: Your Bilal Mahdi Anwar  
+Name: Bilal Mahdi Anwar  
 Contact: bilal.mahdi2806@gmail.com
 
 This website is a private learning project created for educational purposes.  

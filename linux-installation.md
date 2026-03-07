@@ -120,4 +120,4 @@ After installation:
 # Conclusion
 
 Linux is a powerful operating system that is widely used in development, servers, and personal computers.  
-Installing Linux is relatively easy and usually takes less than an hour.
+Installing Linux is relatively easy and usually takes less than an hour:

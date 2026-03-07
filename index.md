@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[Home](index.md) | [Linux Installation](linux-installation.md) | [GitHub Basics](github-basics.md)
+[Linux Installation](linux-installation.md) | [GitHub Basics](github-basics.md)
 
 ---
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: GitHub Basics
+---
+
 [Home](index.md) | [Linux Installation](linux-installation.md) | [GitHub Basics](github-basics.md)
 
 ---
@@ -65,8 +70,6 @@ Download a repository from GitHub to your computer.
 git clone https://github.com/username/repository-name.git
 ```
 
----
-
 # Check Repository Status
 
 Shows which files have changed.
@@ -126,5 +129,3 @@ They help developers:
 - collaborate with others
 - manage projects efficiently
 - publish open source projects
-
-.

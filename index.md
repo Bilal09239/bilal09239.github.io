@@ -30,7 +30,7 @@ The tutorial includes topics such as:
 - creating a bootable USB drive
 - installing the operating system
 
-➡ Go to the page:  
+Go to the page:  
 [Open Linux Installation Guide](linux-installation.md)
 
 ---
@@ -47,7 +47,7 @@ You will learn about:
 - important Git commands in the terminal
 - basic project management with GitHub
 
-➡ Go to the page:  
+Go to the page:  
 [Open GitHub Basics](github-basics.md)
 
 ---
